@@ -1,0 +1,35 @@
+body {
+  background-color: #DFE8CC;
+  font-family: "Bookman Old Style", sans-serif;
+  font-size: 15px;
+}
+h1{
+  font-family: "Copperplate Gothic Light", sans-serif;
+}
+h3 {
+  font-size: 13px;
+}
+
+
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  left: 100px;
+  top: 100px;
+}
+.yellow{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  margin-left: 0;
+}
+.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  left: 200px;
+  top: 200px;
+  position: absolute;
+
+}
