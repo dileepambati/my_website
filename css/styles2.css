@@ -15,6 +15,13 @@ h3{
   max-width: 99.99%;
   max-height: 99.99%;
 }
+
+.top-birds{
+
+  max-width: 30%;
+  max-height: 30%
+}
+
 hr{
   border: none;
   border-top-color: #355764;
