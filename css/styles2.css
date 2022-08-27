@@ -11,7 +11,10 @@ h3{
     margin-top: 0;
 }
 
-
+.mountain{
+  max-width: 99.99%;
+  max-height: 99.99%;
+}
 hr{
   border: none;
   border-top-color: #355764;
